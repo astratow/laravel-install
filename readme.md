@@ -1,1 +1,1 @@
-Laravel installation script
+# Laravel installation script
